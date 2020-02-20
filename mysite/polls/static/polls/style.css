@@ -1,0 +1,41 @@
+li a {
+    color: rgb(231, 231, 231);
+    text-decoration: none;
+    font-size: large;
+}
+body{
+    background: white url("images/1.jpg") no-repeat;
+}
+li{
+    /* display: inline-block; */
+    margin: 20px;
+}
+.mainHeading{
+    color: red;
+    font-size: -webkit-xxx-large;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    text-decoration: wavy;
+}
+.list_title{
+    color: green;
+    padding:15px;
+    margin:10px;
+}
+label{
+    color: whitesmoke;
+}
+#result_ul{
+    color: white;
+}
+#detail_form{
+    padding: 15px;
+    margin: 10px;
+}
+p{
+    margin:20px;
+    color :red !important;
+}
